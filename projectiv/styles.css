@@ -1,0 +1,44 @@
+body {
+  font-family: verdana;
+  background: black
+}
+
+.center {
+  margin: auto;
+  width: 26.5%;
+  border: 3px solid green;
+  padding: 10px;
+  background: white
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+audio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+p, a, ul, li {
+  text-align: center;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+}
